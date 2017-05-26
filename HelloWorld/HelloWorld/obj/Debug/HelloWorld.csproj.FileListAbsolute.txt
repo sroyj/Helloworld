@@ -1,1 +1,9 @@
 C:\Workspaces\GIT\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Workspaces\GIT\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Workspaces\GIT\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Workspaces\GIT\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
